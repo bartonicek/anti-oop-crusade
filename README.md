@@ -20,6 +20,7 @@ Alphabetized list (by author) of books, talks, blogposts, interviews, etc... whi
 ## David Raab
 - Data vs. interfaces: https://davidraab.github.io/posts/data-vs-interfaces/
 - Anemic domain model - Data and behaviour should be separated: https://davidraab.github.io/posts/anemic-domain-model-data-and-behaviour-should-be-separated/
+- Insanity of object-oriented programming: https://davidraab.github.io/posts/insanity-of-oo/
 
 ## Yenothan Sharvit
 - Principles of data-oriented programming: https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html
