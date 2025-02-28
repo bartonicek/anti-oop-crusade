@@ -17,10 +17,17 @@ Alphabetized list (by author) of books, talks, blogposts, interviews, etc... abo
 - Casey Muratori on Clean code, horrible performance (SE Radio): https://www.youtube.com/watch?v=rX0ItVEVjHc&t
 - Why are we not using OOP? (Handmade Hero): https://hero.handmade.network/forums/code-discussion/t/209-why_are_we_not_using_object_oriented_programming
 
+## Tony Van Eerd
+- Value Oriented Programming Part V - Return of the Values: https://www.youtube.com/watch?v=sc1guyo5Rso
+- Value Oriented Programming Part 1 - You Say You Want to Write a Function: https://www.youtube.com/watch?v=b4p_tcLYDV0
+
 ## David Raab
 - Data vs. interfaces: https://davidraab.github.io/posts/data-vs-interfaces/
 - Anemic domain model - Data and behaviour should be separated: https://davidraab.github.io/posts/anemic-domain-model-data-and-behaviour-should-be-separated/
 - Insanity of object-oriented programming: https://davidraab.github.io/posts/insanity-of-oo/
+
+## Sean Parent
+- Better Code - Runtime Polymorphism: https://www.youtube.com/watch?v=QGcVXgEVMJg
 
 ## Yenothan Sharvit
 - Principles of data-oriented programming: https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html
