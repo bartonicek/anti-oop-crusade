@@ -1,6 +1,6 @@
-# Anti-OOP crusade
+# Data Oriented Programming Resources
 
-Alphabetized list (by author) of books, talks, blogposts, interviews, etc... which discuss some less-known problems with Object Oriented Programming (OOP), and suggest alternatives which can be grouped under the umbrella term Data Oriented Programming (DOP).
+Alphabetized list (by author) of books, talks, blogposts, interviews, etc... about Data Oriented Programming (DOP) and problems with Object Oriented Programming (OOP).
 
 ## Mike Acton
 - Data oriented design and C++: https://www.youtube.com/watch?v=rX0ItVEVjHc&t
